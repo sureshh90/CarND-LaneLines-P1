@@ -5,12 +5,12 @@
 The goal of this project is to build a simple pipeline that finds lane lines on the road. The pipeline uses basic Computer Vision algorithms to identify lanes on the road. There are potential shortcomings with the current pipeline, which are identified, and methods to address them are also elaborated.
 
 [image1]: ./test_images/solidWhiteCurve.jpg 
-[image2]: ./test_pipeline_results/color_selected.png "Grayscale"
-[image3]: ./test_pipeline_results/region_selected.png "Grayscale"
-[image4]: ./test_pipeline_results/gauss_filtered.png "Grayscale"
-[image5]: ./test_pipeline_results/canny_detected.png "Grayscale"
-[image6]: ./test_pipeline_results/hough_results.png "Grayscale"
-[image7]: ./test_pipeline_results/output_extrapolated.png
+[image2]: ./test_pipeline_results/color_selected.jpg "Grayscale"
+[image3]: ./test_pipeline_results/region_selected.jpg "Grayscale"
+[image4]: ./test_pipeline_results/gauss_filtered.jpg "Grayscale"
+[image5]: ./test_pipeline_results/canny_detected.jpg "Grayscale"
+[image6]: ./test_pipeline_results/hough_results.jpg "Grayscale"
+[image7]: ./test_pipeline_results/output_extrapolated.jpg
 
 ### Reflection
 
